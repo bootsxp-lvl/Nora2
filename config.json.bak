@@ -1,0 +1,10 @@
+{
+    "accounts": [
+        {
+            "name": "Account 1",
+            "access_token": "4bcaf23e0b279c094deb060c86c3f168c6a9e16ca8ca192828214c6a5fb65fd6",
+            "enabled": true
+        }
+    ],
+    "note": "بدل access_token بالقيمة الحقيقية ديالك. السكريبت غادي يجيب open_id و platform تلقائياً! enabled: true باش تفعل الحساب"
+}
